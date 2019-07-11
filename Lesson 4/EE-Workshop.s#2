@@ -10946,13 +10946,7 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <segment>
 <pinref part="R9" gate="G$1" pin="2"/>
 <pinref part="R10" gate="G$1" pin="1"/>
-<wire x1="256.54" y1="38.1" x2="256.54" y2="43.18" width="0.1524" layer="91"/>
-<wire x1="256.54" y1="43.18" x2="256.54" y2="45.72" width="0.1524" layer="91"/>
-<wire x1="256.54" y1="43.18" x2="116.84" y2="43.18" width="0.1524" layer="91"/>
-<junction x="256.54" y="43.18"/>
-<wire x1="116.84" y1="43.18" x2="116.84" y2="58.42" width="0.1524" layer="91"/>
-<pinref part="IC1" gate="A" pin="DIS"/>
-<wire x1="116.84" y1="58.42" x2="83.82" y2="58.42" width="0.1524" layer="91"/>
+<wire x1="256.54" y1="38.1" x2="256.54" y2="45.72" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="TR" class="0">
